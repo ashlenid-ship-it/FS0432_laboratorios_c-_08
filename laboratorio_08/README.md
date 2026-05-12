@@ -1,7 +1,7 @@
 # Laboratorio 8 - Integracion numerica en C++
 
 Nombre: Ashley Ureña Fonseca  
-Carné: TU_CARNE
+Carné: C27948
 
 ## Compilacion
 

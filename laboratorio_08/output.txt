@@ -3,8 +3,7 @@ Integral de 4/(1+x^2) en [0,1]
 Trapecio compuesto: 3.13993
 Simpson compuesto: 3.14159
 
-Valor exacto: 3.14159
+Valor exacto: 3.141593
 
 Error trapecio: 0.00166666
 Error Simpson: 3.96506e-08
-
